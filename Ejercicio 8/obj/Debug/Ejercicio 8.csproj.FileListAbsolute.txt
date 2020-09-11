@@ -1,0 +1,7 @@
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.csprojAssemblyReference.cache
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.pdb

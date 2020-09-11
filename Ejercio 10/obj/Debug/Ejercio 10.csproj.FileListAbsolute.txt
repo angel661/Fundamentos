@@ -1,0 +1,6 @@
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercio 10\Ejercio 10\bin\Debug\Ejercio 10.exe.config
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercio 10\Ejercio 10\bin\Debug\Ejercio 10.exe
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercio 10\Ejercio 10\bin\Debug\Ejercio 10.pdb
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercio 10\Ejercio 10\obj\Debug\Ejercio 10.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercio 10\Ejercio 10\obj\Debug\Ejercio 10.exe
+D:\FabioCCG\Instituto tekne\Progrmación Básica\Prácticos\Práctico #1\Ejercio 10\Ejercio 10\obj\Debug\Ejercio 10.pdb
