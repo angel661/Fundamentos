@@ -1,0 +1,13 @@
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\bin\Debug\netcoreapp3.1\pract01ejercicio2.exe
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\bin\Debug\netcoreapp3.1\pract01ejercicio2.deps.json
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\bin\Debug\netcoreapp3.1\pract01ejercicio2.runtimeconfig.json
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\bin\Debug\netcoreapp3.1\pract01ejercicio2.runtimeconfig.dev.json
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\bin\Debug\netcoreapp3.1\pract01ejercicio2.dll
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\bin\Debug\netcoreapp3.1\pract01ejercicio2.pdb
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\obj\Debug\netcoreapp3.1\pract01ejercicio2.csprojAssemblyReference.cache
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\obj\Debug\netcoreapp3.1\pract01ejercicio2.AssemblyInfoInputs.cache
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\obj\Debug\netcoreapp3.1\pract01ejercicio2.AssemblyInfo.cs
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\obj\Debug\netcoreapp3.1\pract01ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\obj\Debug\netcoreapp3.1\pract01ejercicio2.dll
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\obj\Debug\netcoreapp3.1\pract01ejercicio2.pdb
+C:\Users\emi\source\repos\pract01ejercicio2\pract01ejercicio2\obj\Debug\netcoreapp3.1\pract01ejercicio2.genruntimeconfig.cache
