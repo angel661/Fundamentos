@@ -214,19 +214,223 @@ namespace EJERCICIO_02
             if(valorA>3&&valorB>3&&valorC<3) Console.WriteLine("Cumple"); else Console.WriteLine("No cumple");
             Console.WriteLine("----------------------------------------------------------------");
             //10.- Que pida un número del 1 al 5 y diga si es primo o no.
+            Console.WriteLine("10.- Que pida un número del 1 al 5 y diga si es primo o no.");
+            Console.Write("Ingrese un numero del 1 al 5:   "); int numprimo = Convert.ToInt32(Console.ReadLine());
+            switch (numprimo)
+            {
+                case 1:
+                    Console.WriteLine("No es primo porque solo tiene un divisor");
+                    break;
+                case 2:
+                    Console.WriteLine("Es primo");
+                    break;
+                case 3:
+                    Console.WriteLine("Es primo");
+                    break;
+                case 4:
+                    Console.WriteLine("No es primo");
+                    break;
+                case 5:
+                    Console.WriteLine("Es primo");
+                    break;
+                default:
+                    Console.WriteLine("El numero ingresado esta fuera de rango");
+                    break;
+
+            }
             Console.WriteLine("----------------------------------------------------------------");
             //11.- Que pida un número del 1 al 7 y diga el día de la semana correspondiente.
+            Console.WriteLine("11.- Que pida un número del 1 al 7 y diga el día de la semana correspondiente.");
+            Console.Write("Ingrese un numero entre el 1 y 7:    "); int numsemana = Convert.ToInt32(Console.ReadLine());
+            switch (numsemana)
+            {
+                case 1:
+                    Console.WriteLine("LUNES");
+                    break;
+                case 2:
+                    Console.WriteLine("MARTES");
+                    break;
+                case 3:
+                    Console.WriteLine("MIERCOLES");
+                    break;
+                case 4:
+                    Console.WriteLine("JUEVES");
+                    break;
+                case 5:
+                    Console.WriteLine("VIERNES");
+                    break;
+                case 6:
+                    Console.WriteLine("SABADO");
+                    break;
+                case 7:
+                    Console.WriteLine("DOMINGO");
+                    break;
+                default:
+                    Console.WriteLine("El numero ingresado esta fuera de rango");
+                    break;
+            }
             Console.WriteLine("----------------------------------------------------------------");
             //12.- Que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+            Console.WriteLine("12.- Que pida un número del 1 al 12 y diga el nombre del mes correspondiente.");
+            Console.Write("Ingrese un numero entre el 1 y 12:    "); int nummes = Convert.ToInt32(Console.ReadLine());
+            switch (nummes)
+            {
+                case 1:
+                    Console.WriteLine("ENERO");
+                    break;
+                case 2:
+                    Console.WriteLine("FEBRERO");
+                    break;
+                case 3:
+                    Console.WriteLine("MARZO");
+                    break;
+                case 4:
+                    Console.WriteLine("ABRIL");
+                    break;
+                case 5:
+                    Console.WriteLine("MAYO");
+                    break;
+                case 6:
+                    Console.WriteLine("JUNIO");
+                    break;
+                case 7:
+                    Console.WriteLine("JULIO");
+                    break;
+                case 8:
+                    Console.WriteLine("AGOSTO");
+                    break;
+                case 9:
+                    Console.WriteLine("SEPTIEMBRE");
+                    break;
+                case 10:
+                    Console.WriteLine("OCTUBRE");
+                    break;
+                case 11:
+                    Console.WriteLine("NOVIEMBRE");
+                    break;
+                case 12:
+                    Console.WriteLine("DICIEMBRE");
+                    break;
+                default:
+                    Console.WriteLine("El numero ingresado esta fuera de rango");
+                    break;
+            }
             Console.WriteLine("----------------------------------------------------------------");
             //13.- Que pida 3 números y los muestre en pantalla de menor a mayor en líneas 
             //      distintas.En caso de haber números iguales se pintan en la misma línea.
+            Console.WriteLine("13.- Que pida 3 números y los muestre en pantalla de menor a mayor en líneas distintas.En caso de haber números iguales se pintan en la misma línea.");
+            Console.WriteLine("Ingrese el primer numero:  "); int primernumero = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingrese el segundo numero:  "); int segundonumero = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingrese el tercer numero:  "); int tercernumero = Convert.ToInt32(Console.ReadLine());
+            if ((primernumero < segundonumero && primernumero < tercernumero)||primernumero==segundonumero||primernumero==tercernumero)
+            {
+                if (segundonumero < tercernumero)
+                {
+                    Console.WriteLine("    {0}    ", primernumero);
+                    Console.WriteLine("    {0}    ", segundonumero);
+                    Console.WriteLine("    {0}    ", tercernumero);
+                }
+                else if (tercernumero < segundonumero)
+                {
+                    Console.WriteLine("    {0}    ", primernumero);
+                    Console.WriteLine("    {0}    ", tercernumero);
+                    Console.WriteLine("    {0}    ", segundonumero);
+                }
+                else if (primernumero == segundonumero)
+                {
+                    Console.WriteLine("   {0}    {1}    ", primernumero, segundonumero);
+                    Console.WriteLine("   {0}           ", tercernumero);
+                }
+                else
+                {
+                    Console.WriteLine("   {0}    {1}    ", primernumero, tercernumero);
+                    Console.WriteLine("   {0}           ", segundonumero);
+                }
+            }
+            else if ((segundonumero < primernumero && segundonumero < tercernumero)||segundonumero==tercernumero)
+            {
+                if (primernumero < tercernumero)
+                {
+                    Console.WriteLine("    {0}    ", segundonumero);
+                    Console.WriteLine("    {0}    ", primernumero);
+                    Console.WriteLine("    {0}    ", tercernumero);
+                }
+                else if(tercernumero<primernumero)
+                {
+                    Console.WriteLine("    {0}    ", segundonumero);
+                    Console.WriteLine("    {0}    ", tercernumero);
+                    Console.WriteLine("    {0}    ", primernumero);
+                }
+                else if (segundonumero == tercernumero)
+                {
+                    Console.WriteLine("   {0}    {1}    ", segundonumero, tercernumero);
+                    Console.WriteLine("   {0}           ", primernumero);
+                }
+            }
+            else if(tercernumero<primernumero&&tercernumero<segundonumero)
+            {
+                if (primernumero < segundonumero)
+                {
+                    Console.WriteLine("    {0}    ", tercernumero);
+                    Console.WriteLine("    {0}    ", primernumero);
+                    Console.WriteLine("    {0}    ", segundonumero);
+                }
+                else
+                {
+                    Console.WriteLine("    {0}    ", tercernumero);
+                    Console.WriteLine("    {0}    ", segundonumero);
+                    Console.WriteLine("    {0}    ", tercernumero);
+                }
+            }
             Console.WriteLine("----------------------------------------------------------------");
             //14.- Que pida un número y diga si es positivo o negativo.
+            Console.WriteLine("14.- Que pida un número y diga si es positivo o negativo.");
+            Console.Write("Ingrese un numero =  ");int positivonegativo = Convert.ToInt32(Console.ReadLine());
+            bool versiesnumeroentero = positivonegativo % 1 == 0;
+            if (versiesnumeroentero)
+            {
+                if (positivonegativo < 0) Console.WriteLine("ES NEGATIVO");
+                else if (positivonegativo > 0) Console.WriteLine("ES POSITIVO");
+            }
+            else Console.WriteLine("NO ES NUMERO ENTERO");
             Console.WriteLine("----------------------------------------------------------------");
             //15.- Que pida 10 números y diga cuál es el mayor y cual el menor.
-
-
+            Console.WriteLine("15.- Que pida 10 números y diga cuál es el mayor y cual el menor.");
+            int numero1, numero2, numero3, numero4, numero5, numero6, numero7, numero8, numero9, numero10;
+            int mayor = 0;
+            int menor = 10;
+            Console.Write("Ingresa el numero 1:   ");numero1 = Convert.ToInt32(Console.ReadLine());
+            if (numero1 > mayor) mayor = numero1;
+            else if (numero1 < menor) menor = numero1;
+            Console.Write("Ingresa el numero 2:   ");numero2 = Convert.ToInt32(Console.ReadLine());
+            if (numero2 > mayor) mayor = numero2;
+            else if (numero2 < menor) menor = numero2;
+            Console.Write("Ingresa el numero 3:   "); numero3 = Convert.ToInt32(Console.ReadLine());
+            if (numero3 > mayor) mayor = numero3;
+            else if (numero3 < menor) menor = numero3;
+            Console.Write("Ingresa el numero 4:   "); numero4 = Convert.ToInt32(Console.ReadLine());
+            if (numero4 > mayor) mayor = numero4;
+            else if (numero4 < menor) menor = numero4;
+            Console.Write("Ingresa el numero 5:   "); numero5 = Convert.ToInt32(Console.ReadLine());
+            if (numero5 > mayor) mayor = numero5;
+            else if (numero5 < menor) menor = numero5;
+            Console.Write("Ingresa el numero 6:   "); numero6 = Convert.ToInt32(Console.ReadLine());
+            if (numero6 > mayor) mayor = numero6;
+            else if (numero6 < menor) menor = numero6;
+            Console.Write("Ingresa el numero 7:   "); numero7 = Convert.ToInt32(Console.ReadLine());
+            if (numero3 > mayor) mayor = numero7;
+            else if (numero7 < menor) menor = numero7;
+            Console.Write("Ingresa el numero 8:   "); numero8 = Convert.ToInt32(Console.ReadLine());
+            if (numero8 > mayor) mayor = numero8;
+            else if (numero8 < menor) menor = numero8;
+            Console.Write("Ingresa el numero 9:   "); numero9 = Convert.ToInt32(Console.ReadLine());
+            if (numero9 > mayor) mayor = numero9;
+            else if (numero9 < menor) menor = numero9;
+            Console.Write("Ingresa el numero 10:   "); numero10 = Convert.ToInt32(Console.ReadLine());
+            if (numero10 > mayor) mayor = numero10;
+            else if (numero10 < menor) menor = numero10;
+            Console.WriteLine("El numero mayor es {0}",mayor);
+            Console.WriteLine("El numeron menor es {0}",menor);
         }
     }
 }
