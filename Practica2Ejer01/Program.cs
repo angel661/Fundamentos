@@ -118,28 +118,126 @@ namespace Practica2Ejer01
 
             //7
             // dado z cantidad de digitos
-            int numero, digitos = 0;
-            Console.Write("ingrese unvalor numerico:  ");
-            numero = Convert.ToInt32(Console.ReadLine());
-            if (numero <= 0)
+            //int numero, digitos = 0;
+            //Console.Write("ingrese unvalor numerico:  ");
+            //numero = Convert.ToInt32(Console.ReadLine());
+            //if (numero <= 0)
+            //{
+            //    Console.Write("ingrese unvalor numerico: ");
+            //}
+            //else
+            //{
+            //    do
+            //    {
+            //        numero = numero / 10;
+            //        digitos = digitos + 1;
+            //    }
+            //    while (numero > 0);
+            //    {
+            //        Console.WriteLine("la cantidad de digitos es: " + digitos);
+            //        Console.ReadLine();
+            //    }
+            //}
+
+            //Console.ReadKey();
+
+
+            //8
+
+            // suma de digitos
+
+            //Console.Write("ingrese un numero: ");
+            //string numero = Console.ReadLine();
+
+            //int total = 0;
+            //foreach (char numero2 in numero)
+            //{
+            //    total += int.Parse(numero2.ToString());
+            //}
+            //Console.WriteLine($"la suma los digitos de {numero}  es: {total}");
+            //Console.ReadKey();
+
+            //9
+
+            // >, < =
+            //int a;
+            //int b;
+            //int c;
+            //Console.Write("Dar valor A:  ");
+            //a = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Dar valor B:  ");
+            //b = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Dar valor C:  ");
+            //c = Convert.ToInt32(Console.ReadLine());
+
+            //if (a < b)
+            //{
+            //    if (b < c)
+            //    {
+            //        Console.WriteLine("{0} es mayor", c);
+            //    }
+            //    else
+            //        Console.WriteLine("{0} es mayor", b);
+            //}
+            //else if (a > b)
+            //{
+            //    if (a < c)
+            //    {
+            //        Console.WriteLine("{0} es mayor", c);
+            //    }
+            //    else
+            //        Console.WriteLine("{0} es mayor", a);
+            //}
+            //Console.ReadKey();
+
+            //10
+            // numeros primos <= a 5
+
+            //int numero = 2;
+            //int divisible = 0;
+            //while (numero <= 5)
+            //{
+            //    for (int i = 1; i <= numero; i++)
+            //    {
+
+            //        if (numero % i == 0)
+            //        {
+            //            divisible++;
+            //        }
+            //        if (divisible > 2)
+            //        {
+            //            break;
+            //        }
+            //    }
+            //    if (divisible == 2)
+            //    {
+            //        Console.WriteLine("el numero {0} es primo", numero);
+            //    }
+            //    divisible = 0;
+            //    numero++;
+            //}
+            //Console.ReadLine();
+            //Console.ReadKey();
+
+            //11
+
+            // dias de la semana igrese el numero
+
+            String[] Dia = { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo" };
+            Console.Write("Por favor, Ingresa un numero:  ");
+            int i = Convert.ToInt16(Console.ReadLine());
+            if (i >= 1 && i <= 7)
             {
-                Console.Write("ingrese unvalor numerico: ");
+                Console.Write("el dia " + i + " es un dia que corresponde a: " + Dia[i - 1]);
             }
             else
             {
-                do
-                {
-                    numero = numero / 10;
-                    digitos = digitos + 1;
-                }
-                while (numero > 0);
-                {
-                    Console.WriteLine("la cantidad de digitos es: " + digitos);
-                    Console.ReadLine();
-                }
+                Console.WriteLine("No es un dia de la semana");
             }
 
+            Console.ReadLine();
             Console.ReadKey();
+
 
 
 
