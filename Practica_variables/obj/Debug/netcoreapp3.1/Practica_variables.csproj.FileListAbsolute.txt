@@ -1,0 +1,13 @@
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\bin\Debug\netcoreapp3.1\Practica_variables.exe
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\bin\Debug\netcoreapp3.1\Practica_variables.deps.json
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\bin\Debug\netcoreapp3.1\Practica_variables.runtimeconfig.json
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\bin\Debug\netcoreapp3.1\Practica_variables.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\bin\Debug\netcoreapp3.1\Practica_variables.dll
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\bin\Debug\netcoreapp3.1\Practica_variables.pdb
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\obj\Debug\netcoreapp3.1\Practica_variables.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\obj\Debug\netcoreapp3.1\Practica_variables.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\obj\Debug\netcoreapp3.1\Practica_variables.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\obj\Debug\netcoreapp3.1\Practica_variables.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\obj\Debug\netcoreapp3.1\Practica_variables.dll
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\obj\Debug\netcoreapp3.1\Practica_variables.pdb
+C:\Users\Desktop\source\repos\Practica_variables\Practica_variables\obj\Debug\netcoreapp3.1\Practica_variables.genruntimeconfig.cache

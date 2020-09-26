@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Practica_variables": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
