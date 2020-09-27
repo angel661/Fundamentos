@@ -223,22 +223,62 @@ namespace Practica2Ejer01
 
             // dias de la semana igrese el numero
 
-            String[] Dia = { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo" };
-            Console.Write("Por favor, Ingresa un numero:  ");
-            int i = Convert.ToInt16(Console.ReadLine());
-            if (i >= 1 && i <= 7)
+            //String[] Dia = { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo" };
+            //Console.Write("Por favor, Ingresa un numero:  ");
+            //int i = Convert.ToInt16(Console.ReadLine());
+            //if (i >= 1 && i <= 7)
+            //{
+            //    Console.Write("el dia " + i + " es un dia que corresponde a: " + Dia[i - 1]);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("No es un dia de la semana");
+            //}
+
+            //Console.ReadLine();
+            //Console.ReadKey();
+
+            //12
+            // meses del año igrese el numero
+
+            //String[] mes = { "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre" };
+            //Console.Write("Por favor, Ingresa un numero:  ");
+            //int i = Convert.ToInt16(Console.ReadLine());
+            //if (i >= 1 && i <= 12)
+            //{
+            //    Console.WriteLine("el numero " + i + "  corresponde a: " + mes[i - 1]);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("No es un dia de la semana");
+            //}
+
+            //Console.ReadLine();
+            //Console.ReadKey();
+
+
+            //14
+            // positivo negativo o cero
+
+            int numero;
+            Console.Write("Por favor, Ingrese un Numero: ");
+            numero = Int32.Parse(Console.ReadLine());
+
+            if (numero == 0)
             {
-                Console.Write("el dia " + i + " es un dia que corresponde a: " + Dia[i - 1]);
+                Console.Write("el numero es cero");
             }
-            else
+            else if (numero >= 1)
             {
-                Console.WriteLine("No es un dia de la semana");
+                Console.Write("el numero " + numero + " es Positivo.");
+            }
+            else if (numero <= -1)
+            {
+                Console.Write("el numero " + numero + " es Negativo.");
             }
 
             Console.ReadLine();
             Console.ReadKey();
-
-
 
 
 
