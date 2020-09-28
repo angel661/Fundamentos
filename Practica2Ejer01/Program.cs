@@ -260,25 +260,152 @@ namespace Practica2Ejer01
             //14
             // positivo negativo o cero
 
-            int numero;
-            Console.Write("Por favor, Ingrese un Numero: ");
-            numero = Int32.Parse(Console.ReadLine());
+            //int numero;
+            //Console.Write("Por favor, Ingrese un Numero: ");
+            //numero = Int32.Parse(Console.ReadLine());
 
-            if (numero == 0)
-            {
-                Console.Write("el numero es cero");
-            }
-            else if (numero >= 1)
-            {
-                Console.Write("el numero " + numero + " es Positivo.");
-            }
-            else if (numero <= -1)
-            {
-                Console.Write("el numero " + numero + " es Negativo.");
-            }
+            //if (numero == 0)
+            //{
+            //    Console.Write("el numero es cero");
+            //}
+            //else if (numero >= 1)
+            //{
+            //    Console.Write("el numero " + numero + " es Positivo.");
+            //}
+            //else if (numero <= -1)
+            //{
+            //    Console.Write("el numero " + numero + " es Negativo.");
+            //}
 
-            Console.ReadLine();
+            //Console.ReadLine();
+            //Console.ReadKey();
+
+            //15
+
+            // numero mayor y menor .Ordenar los numeros de mayor a menor.
+            //int[] numero = new int[10];
+            //int mayor = 0;
+            //int menor = 0;
+            //int suma = 0;
+            //int parte = 0;
+            //Console.Clear();
+            //Console.WriteLine("");
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    Console.Write("{0} Por favor, ingrese un numero:", i);
+            //    numero[i] = int.Parse(Console.ReadLine());
+            //}
+            //for (int j = 0; j < 10; j++)
+            //{
+            //    if (numero[j] > numero[mayor])
+            //    {
+            //        mayor = j;
+            //    }
+            //}
+            //for (int f = 0; f < 10; f++)
+            //{
+            //    if (numero[f] < numero[menor])
+            //    {
+            //        menor = f;
+            //    }
+            //}
+            //Console.WriteLine("el numero menor es: " + numero[menor]);
+            //Console.WriteLine("el numero mayor es: " + numero[mayor]);
+
+            //Console.ReadKey();
+
+            //16
+            //el 3er num es la suma de los dos 
+            //int num1, num2, num3;
+            //int suma;
+            //Console.Write(" Escriba primer nuemro  \t ");
+            //num1 = Convert.ToInt32(Console.ReadLine());
+            //Console.Write(" Escriba segundo nuemro \t ");
+            //num2 = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Escriba tercer numero   \t ");
+            //num3 = Convert.ToInt32(Console.ReadLine());
+
+
+            //if (num1 + num2 == num3)
+            //{
+            //    Console.WriteLine("El tercer número es la suma de los dos primeros.\n");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("El tercer número NO es la suma de los dos primeros.\n");
+            //}
+            //Console.ReadLine();
+            //Console.ReadKey();
+
+            //17
+
+            // opciones “Archivo”, “Buscar” y “Salir”, 
+            //int opcion;
+            //Console.WriteLine(" Seleccione opción:\n");
+            //Console.WriteLine("1 – Archivo\n");
+            //Console.WriteLine("2 – Buscar\n");
+            //Console.WriteLine("3 – Salir\n");
+            //opcion = Convert.ToInt32(Console.ReadLine());
+            //if (opcion != 1 && opcion != 2 && opcion != 3)
+            //{
+            //    Console.WriteLine("La opción NO es correcta.\n");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("La opción es correcta.\n");
+            //}
+            //Console.ReadKey();
+
+            //18
+
+            //Conversion de equivalencias
+            //float Metros, pies, pulgadas, millas;
+            //Console.Write("Por favor, ingrese Cantidad de Metros a Calcular: ");
+            //Metros = float.Parse(Console.ReadLine());
+
+            //pies = Metros / (0.3048f);
+            //pulgadas = Metros / (0.0254f);
+            //millas = Metros / (1609.344f);
+            //Console.WriteLine("La Cantidad de pies es: {0}", pies);
+            //Console.WriteLine("La Cantidad de pulgada es: {0}", pulgadas);
+            //Console.WriteLine("La Cantidad de millas es: {0}", millas);
+            //Console.ReadKey();
+
+            //19
+            /*Que lea un importe bruto y calcule su importe neto, si es mayor de 15.000 se le 
+            aplicará un 16% de impuestos, en caso contrario se le aplicará un 10%.*/
+            //double importe_bruto, importe_neto, impuestos;
+            //Console.Write("\n Ingrese el Sueldo bruto de una persona: ");
+            //importe_bruto = double.Parse(Console.ReadLine());
+            //impuestos = importe_bruto > 15000 ? importe_bruto * 0.16 : importe_bruto * 0.1;
+            //importe_neto = importe_bruto + impuestos;
+            //Console.WriteLine("Valor de importe neto: " + importe_neto);
+            //Console.WriteLine("Valor de impuestos: " + impuestos);
+            //Console.WriteLine();
+            //Console.ReadKey();
+
+            //20
+            // haber  40000 Bs >10años 10%, 5años<x<10años 7%,3años<x<5años 5%, <3años 3%
+            double sueldo = 40000;
+            double aumento, totalAPagar;
+            Console.WriteLine("Por favor, ingrese sueldo anual: ");
+            totalAPagar = Convert.ToInt32(Console.ReadLine());
+            aumento = (0.10 * totalAPagar) + sueldo;
+            Console.WriteLine("Si lleva más de 10 años su sueldo es: {0}", aumento);
+
+
+            aumento = (0.07 * totalAPagar) + sueldo;
+            Console.WriteLine("Si lleva menos de 10 años pero más que 5, su sueldo es: {0}", aumento);
+
+            aumento = (0.05 * totalAPagar) + sueldo;
+            Console.WriteLine("Si lleva menos de 5 años pero más que 3, su sueldo es: {0}", aumento);
+            aumento = (0.03 * totalAPagar) + sueldo;
+            Console.WriteLine("Si lleva menos de 3 años , su sueldo es: {0}", aumento);
+
+            Console.WriteLine();
             Console.ReadKey();
+
+
 
 
 
