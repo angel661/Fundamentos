@@ -1,0 +1,12 @@
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\bin\Debug\netcoreapp3.1\Ejercicio11.exe
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\bin\Debug\netcoreapp3.1\Ejercicio11.deps.json
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\bin\Debug\netcoreapp3.1\Ejercicio11.runtimeconfig.json
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\bin\Debug\netcoreapp3.1\Ejercicio11.runtimeconfig.dev.json
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\bin\Debug\netcoreapp3.1\Ejercicio11.dll
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\bin\Debug\netcoreapp3.1\Ejercicio11.pdb
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\obj\Debug\netcoreapp3.1\Ejercicio11.AssemblyInfoInputs.cache
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\obj\Debug\netcoreapp3.1\Ejercicio11.AssemblyInfo.cs
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\obj\Debug\netcoreapp3.1\Ejercicio11.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\obj\Debug\netcoreapp3.1\Ejercicio11.dll
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\obj\Debug\netcoreapp3.1\Ejercicio11.pdb
+D:\FabioCCG\Tekhne\Progrmación Básica\Programas\Ejercicio11\Ejercicio11\obj\Debug\netcoreapp3.1\Ejercicio11.genruntimeconfig.cache
