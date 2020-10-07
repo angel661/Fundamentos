@@ -277,29 +277,101 @@ namespace Practica_03
             Console.WriteLine("------------------------------------------------------");
             //18.Que escriba las tablas de multiplicar del 0 al 10.
             Console.WriteLine("18.Que escriba las tablas de multiplicar del 0 al 10.");
+            for (int multi1801 = 1; multi1801 <= 10; multi1801++)
+            {
+                for (int multi1802 = 0; multi1802 <= 10; multi1802++)
+                {
+                    Console.Write("{0}*{1}={2}   ", multi1802, multi1801, multi1801 * multi1802);
+                }
+                Console.Write("\n");
+            }
             Console.WriteLine("------------------------------------------------------");
             //19.Que muestre la tabla de multiplicar de un número cualquiera.
             Console.WriteLine("19.Que muestre la tabla de multiplicar de un número cualquiera.");
+            Console.Write("Ingrese un numero: "); int numero19 = Convert.ToInt32(Console.ReadLine());
+            for (int index19 = 1; index19 <= 10; index19++)
+            {
+                Console.WriteLine("{0}*{1}={2}   ", numero19, index19, numero19 * index19);
+
+            }
             Console.WriteLine("------------------------------------------------------");
             //20.Que haga un menú del tipo “desea salir(S/ N)” y el programa no termine hasta
             //que el usuario teclee “S”.
             Console.WriteLine("20.Que haga un menú del tipo “desea salir(S/ N)” y el programa no termine hasta que el usuario teclee “S”.");
+            char opcion20=' ';
+            do
+            {
+                Console.WriteLine("Desea salir (S/N)");
+                opcion20 = Convert.ToChar(Console.ReadLine());
+            } while (opcion20 != 'S');
+            Console.WriteLine();
             Console.WriteLine("------------------------------------------------------");
             //21.Que calcule el factorial de un número cualquiera y lo muestre en pantalla.
             Console.WriteLine("21.Que calcule el factorial de un número cualquiera y lo muestre en pantalla.");
+            Console.Write("Ingrese un numero: "); int numfact = Convert.ToInt32(Console.ReadLine());
+            int aux21=1;
+            for (int index21 = 1; index21 <= numfact; index21++)
+            {
+                aux21 = aux21 * index21; 
+            }
+            Console.WriteLine("El numero factoria de {0} es {1}",numfact,aux21);
             Console.WriteLine("------------------------------------------------------");
             //22.Que calcule la media de 10 números.
             Console.WriteLine("22.Que calcule la media de 10 números.");
+            Random num22 = new Random();
+            int numrandom;
+            int sumarrandom=0;
+            for (int index22 = 1; index22 <= 10; index22++)
+            {
+                numrandom = num22.Next(1000);
+                Console.WriteLine(numrandom);
+                sumarrandom = sumarrandom + numrandom;
+            }
+            Console.WriteLine("La media de los 10 numeros es: {0}",sumarrandom/10);
+            
+
             Console.WriteLine("------------------------------------------------------");
             //23.Que calcule la media de X números, se dejarán de solicitar números hasta 
             //que se introduzca el cero.
             Console.WriteLine("23.Que calcule la media de X números, se dejarán de solicitar números hasta que se introduzca el cero.");
+            int acumulado23=0;
+            int contador23 = 0;
+            int numero23;
+            Console.WriteLine("Para parar el ingreso de numeros ingrese el numero cero");
+            do
+            {
+                Console.Write("Ingrese un numero: ");numero23 = Convert.ToInt32(Console.ReadLine());
+                acumulado23 = acumulado23 + numero23;
+                if(numero23!=0)
+                    contador23 = contador23+1;
+            } while (numero23 != 0);
+            Console.WriteLine("La media de los {0} numeros es: {1}", contador23,acumulado23/contador23);
+
             Console.WriteLine("------------------------------------------------------");
             //24.Que calcule la suma de los cuadrados de los 100 primeros números.
             Console.WriteLine("24.Que calcule la suma de los cuadrados de los 100 primeros números.");
+            int cuadrado24;
+            int sumacuadrado24=0;
+            for (int index24 = 0; index24 <= 100; index24++)
+            {
+                cuadrado24 = index24 * index24;
+                sumacuadrado24 = sumacuadrado24 + cuadrado24;
+            }
+            Console.WriteLine("La suma total de los cuadrados es {0}",sumacuadrado24);
+
             Console.WriteLine("------------------------------------------------------");
             //25.Que escriba los primeros 25 dígitos de la sucesión de Fibonacci.
             Console.WriteLine("25.Que escriba los primeros 25 dígitos de la sucesión de Fibonacci.");
+            int aux25;
+            int primernumero = 0;
+            int segundonumero = 1;
+            for (int index25 = 0; index25 < 25; index25++)
+            {
+                Console.WriteLine(primernumero);
+                aux25 = primernumero;
+                primernumero = segundonumero;
+                segundonumero = aux25 + primernumero                
+            }
             Console.WriteLine("------------------------------------------------------");
         }
     }
