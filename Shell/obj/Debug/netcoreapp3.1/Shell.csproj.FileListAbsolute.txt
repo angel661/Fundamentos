@@ -1,0 +1,13 @@
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.exe
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.deps.json
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.runtimeconfig.json
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.runtimeconfig.dev.json
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.dll
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\bin\Debug\netcoreapp3.1\Shell.pdb
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.csprojAssemblyReference.cache
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.AssemblyInfoInputs.cache
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.AssemblyInfo.cs
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.dll
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.pdb
+D:\FabioCCG\Mis cosas\Fundamentos de Programación C#\Algoritmos de Ordenamiento\Shell\Shell\obj\Debug\netcoreapp3.1\Shell.genruntimeconfig.cache
