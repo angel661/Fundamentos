@@ -1,0 +1,13 @@
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\bin\Debug\netcoreapp3.1\PracticaCondicionales.exe
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\bin\Debug\netcoreapp3.1\PracticaCondicionales.deps.json
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\bin\Debug\netcoreapp3.1\PracticaCondicionales.runtimeconfig.json
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\bin\Debug\netcoreapp3.1\PracticaCondicionales.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\bin\Debug\netcoreapp3.1\PracticaCondicionales.dll
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\bin\Debug\netcoreapp3.1\PracticaCondicionales.pdb
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\obj\Debug\netcoreapp3.1\PracticaCondicionales.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\obj\Debug\netcoreapp3.1\PracticaCondicionales.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\obj\Debug\netcoreapp3.1\PracticaCondicionales.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\obj\Debug\netcoreapp3.1\PracticaCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\obj\Debug\netcoreapp3.1\PracticaCondicionales.dll
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\obj\Debug\netcoreapp3.1\PracticaCondicionales.pdb
+C:\Users\Desktop\source\repos\PracticaCondicionales\PracticaCondicionales\obj\Debug\netcoreapp3.1\PracticaCondicionales.genruntimeconfig.cache
