@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Specialized;
 
 namespace practica03ejerc01
 {
@@ -310,15 +311,161 @@ namespace practica03ejerc01
 
             //15 Que pida dos números y multiplique todos los números 
 
-            //16 Que pida un número y muestre en pantalla el mismo número de asteriscos.
-            int i, num;
-            Console.Write("Ingrese un numero: ");
-            num = Convert.ToInt32(Console.ReadLine());
-            for (i = 0; i < num; i++)
-            Console.Write(" * ");
-            Console.ReadKey();
 
+
+            //16 Que pida un número y muestre en pantalla el mismo número de asteriscos.
+            //int i, num;
+            //Console.Write("Ingrese un numero: ");
+            //num = Convert.ToInt32(Console.ReadLine());
+            //for (i = 0; i < num; i++)
+            //Console.Write(" * ");
+            //Console.ReadKey();
+
+            //17 Que muestre los números del 1 al 100 en una tabla de 10x10.
+
+            //int F = 0, C = 0, N = 0,  M = 0;
+            //string linea;
+
+            //Console.Write("Ingrese el numero de filas: ");
+            //linea = Console.ReadLine();
+            //N = int.Parse(linea);
+            //Console.Write("ingrese el numero de columnas:  ");
+            //linea = Console.ReadLine();
+            //M = int.Parse(linea);
+            //int[,] MAT = new int[N + 1, M + 1];
+            //for (F = 1; F <= N; F++)
+            //{
+            //    for (C = 1; C <= M; C++)
+            //    {
+            //        MAT[F, C] = F * C;
+            //    }
+            //}
+
+            //for (F = 1; F <= N; F++)
+            //{
+            //    for (C = 1; C <= M; C++)
+            //    {
+
+            //        Console.SetCursorPosition(C * 4, F + 1);
+            //        Console.Write(MAT[F, C]);
+            //    }
+            //}
+            //Console.WriteLine();
+            //Console.ReadKey();
+
+            //18 Que escriba las tablas de multiplicar del 0 al 10.
+
+
+            //int fila, columna, total;
+
+            //for (fila = 1; fila <= 10; fila++)
+            //{
+            //    for (columna = 1; columna <= 10; columna++)
+            //    {
+            //        total = fila * columna;
+            //        Console.Write(total +" ");
+            //        if(total < 10)
+            //        {
+            //            Console.Write( "");
+            //        }
+            //    }
+            //    Console.Write ( " "); 
+
+            //}
+
+            //Console.ReadKey();
+
+            //19 Que muestre la tabla de multiplicar de un número cualquiera.
+            //int numero = 0;
+            //Console.WriteLine("Ingrese un número:");
+            //numero = int.Parse(Console.ReadLine());
+            //for (int i = 0; i <= 10; i++)
+            //{
+            //    Console.WriteLine(numero + "x" + i + "=" + (i * numero));
+            //}
+            //Console.Write("Press any key to continue . . . ");
+            //Console.ReadKey(true);
+
+            //20
+
+            //21 factorial de un número 
+            //    int num;
+            //    do
+            //    {
+            //        Console.Write("Por favor, ingrese un numero: ");
+            //        num = int.Parse(Console.ReadLine());
+            //     } while (num < 0);
+            //    factorial(num);
+            //    Console.ReadKey();
+            //}
+            // static void factorial(int n)
+            //{
+            //    int fact = 1;
+            //    for (int i = 1; i <= n; i++)
+            //    {
+            //        fact *= i;
+            //    }
+            //    Console.WriteLine("\nEl Factorial de " + n + " es: " + fact);
+
+
+            //22 Que calcule la media de 10 números.
+            //double[] calificaciones = { 90, 98, 85, 95, 90, 80, 70, 100, 55 };
+            //// Vamos a almacenar la sumatoria
+            //double sumatoria = 0;
+            //// Lo recorremos con un foreach
+            //foreach (double calificacion in calificaciones)
+            //{
+            //    // Ir agregando la calificación a la sumatoria
+            //    sumatoria += calificacion;
+            //}
+            //// El promedio resulta de dividir la sumatoria entre la cantidad de elementos
+            //double promedio = sumatoria / calificaciones.Length;
+            //Console.WriteLine("Promedio: " + promedio);
+            //Console.ReadKey();
+
+
+            //23
+            //24 Que calcule la suma de los cuadrados de los 100 primeros números.
+
+            //int i = 1, cuad = 0, n1 = 1, sum = 0;
+
+            //Console.WriteLine("Suma de los cuadrados de los 100 primeros numeros naturales");
+
+            //for (i = 1; i <= 100; i++)
+
+            //{
+
+            //    cuad = n1 * i;
+
+            //    cuad = cuad * i;
+
+            //    sum = sum + cuad;
+
+            //    Console.WriteLine("cuadrado de:\t" + i + "\tes\t" + cuad);
+
+            //}
+
+            //Console.WriteLine("la suma de los cuadrados es:\t" + sum);
+
+            //25 Que escriba los primeros 25 dígitos de la sucesión de Fibonacci.
+
+            int a, b, limite, i, auxiliar;
+            Console.WriteLine("Ingrese el número de numeros de Fibonacci que desea mostrar");
+            limite = int.Parse(Console.ReadLine());
+            a = 0;
+            b = 1;
+            for (i = 0; i < limite; i++)
+            {
+                auxiliar = a;
+                a = b;
+                b = auxiliar + a;
+                Console.WriteLine(a);
+            }
+            Console.ReadKey();
         }
+
     }
+}   
+
+  
     
-}
