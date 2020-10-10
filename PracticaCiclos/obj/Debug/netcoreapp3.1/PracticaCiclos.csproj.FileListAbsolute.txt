@@ -1,0 +1,13 @@
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\bin\Debug\netcoreapp3.1\PracticaCiclos.exe
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\bin\Debug\netcoreapp3.1\PracticaCiclos.deps.json
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\bin\Debug\netcoreapp3.1\PracticaCiclos.runtimeconfig.json
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\bin\Debug\netcoreapp3.1\PracticaCiclos.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\bin\Debug\netcoreapp3.1\PracticaCiclos.dll
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\bin\Debug\netcoreapp3.1\PracticaCiclos.pdb
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\obj\Debug\netcoreapp3.1\PracticaCiclos.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\obj\Debug\netcoreapp3.1\PracticaCiclos.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\obj\Debug\netcoreapp3.1\PracticaCiclos.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\obj\Debug\netcoreapp3.1\PracticaCiclos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\obj\Debug\netcoreapp3.1\PracticaCiclos.dll
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\obj\Debug\netcoreapp3.1\PracticaCiclos.pdb
+C:\Users\Desktop\source\repos\PracticaCiclos\PracticaCiclos\obj\Debug\netcoreapp3.1\PracticaCiclos.genruntimeconfig.cache
