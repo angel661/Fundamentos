@@ -1,0 +1,7 @@
+C:\Users\SISTEMAS\source\repos\AlgoritmoOrdenPeine\AlgoritmoOrdenPeine\bin\Debug\AlgoritmoOrdenPeine.exe.config
+C:\Users\SISTEMAS\source\repos\AlgoritmoOrdenPeine\AlgoritmoOrdenPeine\bin\Debug\AlgoritmoOrdenPeine.exe
+C:\Users\SISTEMAS\source\repos\AlgoritmoOrdenPeine\AlgoritmoOrdenPeine\bin\Debug\AlgoritmoOrdenPeine.pdb
+C:\Users\SISTEMAS\source\repos\AlgoritmoOrdenPeine\AlgoritmoOrdenPeine\obj\Debug\AlgoritmoOrdenPeine.csprojAssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\AlgoritmoOrdenPeine\AlgoritmoOrdenPeine\obj\Debug\AlgoritmoOrdenPeine.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\source\repos\AlgoritmoOrdenPeine\AlgoritmoOrdenPeine\obj\Debug\AlgoritmoOrdenPeine.exe
+C:\Users\SISTEMAS\source\repos\AlgoritmoOrdenPeine\AlgoritmoOrdenPeine\obj\Debug\AlgoritmoOrdenPeine.pdb
