@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikyr\\Desktop\\Certificación Programación\\Practicas\\Practica1\\Practica1\\Practica1\\Practica1.csproj",
-      "projectName": "Practica1",
-      "projectPath": "C:\\Users\\mikyr\\Desktop\\Certificación Programación\\Practicas\\Practica1\\Practica1\\Practica1\\Practica1.csproj",
+      "projectUniqueName": "C:\\Users\\mikyr\\Desktop\\Certificación Programación\\Proyectos\\Clase7\\Clase7.1\\Clase7.1\\Clase7.1.csproj",
+      "projectName": "Clase7.1",
+      "projectPath": "C:\\Users\\mikyr\\Desktop\\Certificación Programación\\Proyectos\\Clase7\\Clase7.1\\Clase7.1\\Clase7.1.csproj",
       "packagesPath": "C:\\Users\\mikyr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikyr\\Desktop\\Certificación Programación\\Practicas\\Practica1\\Practica1\\Practica1\\obj\\",
+      "outputPath": "C:\\Users\\mikyr\\Desktop\\Certificación Programación\\Proyectos\\Clase7\\Clase7.1\\Clase7.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikyr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
