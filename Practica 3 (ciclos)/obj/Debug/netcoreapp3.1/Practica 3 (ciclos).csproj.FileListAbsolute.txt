@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\bin\Debug\netcoreapp3.1\Practica 3 (ciclos).exe
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\bin\Debug\netcoreapp3.1\Practica 3 (ciclos).deps.json
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\bin\Debug\netcoreapp3.1\Practica 3 (ciclos).runtimeconfig.json
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\bin\Debug\netcoreapp3.1\Practica 3 (ciclos).runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\bin\Debug\netcoreapp3.1\Practica 3 (ciclos).dll
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\bin\Debug\netcoreapp3.1\Practica 3 (ciclos).pdb
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\obj\Debug\netcoreapp3.1\Practica 3 (ciclos).csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\obj\Debug\netcoreapp3.1\Practica 3 (ciclos).AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\obj\Debug\netcoreapp3.1\Practica 3 (ciclos).AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\obj\Debug\netcoreapp3.1\Practica 3 (ciclos).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\obj\Debug\netcoreapp3.1\Practica 3 (ciclos).dll
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\obj\Debug\netcoreapp3.1\Practica 3 (ciclos).pdb
+C:\Users\Usuario\source\repos\Practica 3 (ciclos)\Practica 3 (ciclos)\obj\Debug\netcoreapp3.1\Practica 3 (ciclos).genruntimeconfig.cache

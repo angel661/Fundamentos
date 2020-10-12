@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\obj\Debug\netcoreapp3.1\Práctica 2 (Condicionales).csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\obj\Debug\netcoreapp3.1\Práctica 2 (Condicionales).AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\obj\Debug\netcoreapp3.1\Práctica 2 (Condicionales).AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\obj\Debug\netcoreapp3.1\Práctica 2 (Condicionales).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\bin\Debug\netcoreapp3.1\Práctica 2 (Condicionales).exe
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\bin\Debug\netcoreapp3.1\Práctica 2 (Condicionales).deps.json
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\bin\Debug\netcoreapp3.1\Práctica 2 (Condicionales).runtimeconfig.json
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\bin\Debug\netcoreapp3.1\Práctica 2 (Condicionales).runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\bin\Debug\netcoreapp3.1\Práctica 2 (Condicionales).dll
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\bin\Debug\netcoreapp3.1\Práctica 2 (Condicionales).pdb
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\obj\Debug\netcoreapp3.1\Práctica 2 (Condicionales).dll
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\obj\Debug\netcoreapp3.1\Práctica 2 (Condicionales).pdb
+C:\Users\Usuario\source\repos\Práctica 2 (Condicionales)\Práctica 2 (Condicionales)\obj\Debug\netcoreapp3.1\Práctica 2 (Condicionales).genruntimeconfig.cache
