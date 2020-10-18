@@ -1,0 +1,13 @@
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\bin\Debug\netcoreapp3.1\Practica3.exe
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\bin\Debug\netcoreapp3.1\Practica3.deps.json
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\bin\Debug\netcoreapp3.1\Practica3.runtimeconfig.json
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\bin\Debug\netcoreapp3.1\Practica3.runtimeconfig.dev.json
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\bin\Debug\netcoreapp3.1\Practica3.dll
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\bin\Debug\netcoreapp3.1\Practica3.pdb
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\obj\Debug\netcoreapp3.1\Practica3.csprojAssemblyReference.cache
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\obj\Debug\netcoreapp3.1\Practica3.AssemblyInfoInputs.cache
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\obj\Debug\netcoreapp3.1\Practica3.AssemblyInfo.cs
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\obj\Debug\netcoreapp3.1\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\obj\Debug\netcoreapp3.1\Practica3.dll
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\obj\Debug\netcoreapp3.1\Practica3.pdb
+C:\Users\mikyr\Desktop\Certificación Programación\Practicas\Practica3\Practica3\Practica3\obj\Debug\netcoreapp3.1\Practica3.genruntimeconfig.cache
