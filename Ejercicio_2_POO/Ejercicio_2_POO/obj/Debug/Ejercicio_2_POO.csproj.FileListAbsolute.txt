@@ -1,0 +1,10 @@
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\bin\Debug\Ejercicio_2_POO.exe.config
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\bin\Debug\Ejercicio_2_POO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\bin\Debug\Ejercicio_2_POO.pdb
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\obj\Debug\Ejercicio_2_POO.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\obj\Debug\Ejercicio_2_POO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\obj\Debug\Ejercicio_2_POO.pdb
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\bin\Debug\Libreria.dll
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\bin\Debug\Libreria.pdb
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\obj\Debug\Ejercicio_2_POO.csprojAssemblyReference.cache
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Práctico#1 POO\Ejercicio_2_POO\Ejercicio_2_POO\obj\Debug\Ejercicio_2_POO.csproj.CopyComplete
