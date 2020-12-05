@@ -1,0 +1,7 @@
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio2_POO\Ejercicio2_POO\bin\Debug\Ejercicio2_POO.exe.config
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio2_POO\Ejercicio2_POO\bin\Debug\Ejercicio2_POO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio2_POO\Ejercicio2_POO\bin\Debug\Ejercicio2_POO.pdb
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio2_POO\Ejercicio2_POO\obj\Debug\Ejercicio2_POO.csprojAssemblyReference.cache
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio2_POO\Ejercicio2_POO\obj\Debug\Ejercicio2_POO.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio2_POO\Ejercicio2_POO\obj\Debug\Ejercicio2_POO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio2_POO\Ejercicio2_POO\obj\Debug\Ejercicio2_POO.pdb

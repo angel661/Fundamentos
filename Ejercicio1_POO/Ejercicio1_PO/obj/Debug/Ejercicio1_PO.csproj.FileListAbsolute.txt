@@ -1,0 +1,7 @@
+D:\FabioCCG\Tekhne\Programación Básica\Programación Orientada a Objetos\Ejercicio1_PO\Ejercicio1_PO\bin\Debug\Ejercicio1_PO.exe.config
+D:\FabioCCG\Tekhne\Programación Básica\Programación Orientada a Objetos\Ejercicio1_PO\Ejercicio1_PO\bin\Debug\Ejercicio1_PO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Programación Orientada a Objetos\Ejercicio1_PO\Ejercicio1_PO\bin\Debug\Ejercicio1_PO.pdb
+D:\FabioCCG\Tekhne\Programación Básica\Programación Orientada a Objetos\Ejercicio1_PO\Ejercicio1_PO\obj\Debug\Ejercicio1_PO.csprojAssemblyReference.cache
+D:\FabioCCG\Tekhne\Programación Básica\Programación Orientada a Objetos\Ejercicio1_PO\Ejercicio1_PO\obj\Debug\Ejercicio1_PO.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Tekhne\Programación Básica\Programación Orientada a Objetos\Ejercicio1_PO\Ejercicio1_PO\obj\Debug\Ejercicio1_PO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Programación Orientada a Objetos\Ejercicio1_PO\Ejercicio1_PO\obj\Debug\Ejercicio1_PO.pdb

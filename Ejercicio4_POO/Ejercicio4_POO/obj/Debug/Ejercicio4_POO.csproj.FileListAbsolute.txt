@@ -1,0 +1,7 @@
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio4_POO\Ejercicio4_POO\bin\Debug\Ejercicio4_POO.exe.config
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio4_POO\Ejercicio4_POO\bin\Debug\Ejercicio4_POO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio4_POO\Ejercicio4_POO\bin\Debug\Ejercicio4_POO.pdb
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio4_POO\Ejercicio4_POO\obj\Debug\Ejercicio4_POO.csproj.CoreCompileInputs.cache
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio4_POO\Ejercicio4_POO\obj\Debug\Ejercicio4_POO.exe
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio4_POO\Ejercicio4_POO\obj\Debug\Ejercicio4_POO.pdb
+D:\FabioCCG\Tekhne\Programación Básica\Prácticos\Practico#2 POO\Ejercicio4_POO\Ejercicio4_POO\obj\Debug\Ejercicio4_POO.csprojAssemblyReference.cache
