@@ -1,0 +1,7 @@
+C:\Users\Desktop\source\repos\practica_1_POO\practica_1_POO\obj\Debug\practica_1_POO.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\practica_1_POO\practica_1_POO\bin\Debug\practica_1_POO.exe.config
+C:\Users\Desktop\source\repos\practica_1_POO\practica_1_POO\bin\Debug\practica_1_POO.exe
+C:\Users\Desktop\source\repos\practica_1_POO\practica_1_POO\bin\Debug\practica_1_POO.pdb
+C:\Users\Desktop\source\repos\practica_1_POO\practica_1_POO\obj\Debug\practica_1_POO.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\practica_1_POO\practica_1_POO\obj\Debug\practica_1_POO.exe
+C:\Users\Desktop\source\repos\practica_1_POO\practica_1_POO\obj\Debug\practica_1_POO.pdb
