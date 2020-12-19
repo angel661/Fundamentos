@@ -1,0 +1,11 @@
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\bin\Debug\SudokuProyect01.exe.config
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\bin\Debug\SudokuProyect01.exe
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\bin\Debug\SudokuProyect01.pdb
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.csprojAssemblyReference.cache
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.Properties.Resources.resources
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.SudokuControl.resources
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.csproj.GenerateResource.cache
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.csproj.CoreCompileInputs.cache
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.exe
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.pdb
+C:\Users\emi\source\repos\SudokuProyect01\SudokuProyect01\obj\Debug\SudokuProyect01.Form1.resources
