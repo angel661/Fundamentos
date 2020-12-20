@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\bin\Debug\netcoreapp3.1\Práctica 1 POO.exe
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\bin\Debug\netcoreapp3.1\Práctica 1 POO.deps.json
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\bin\Debug\netcoreapp3.1\Práctica 1 POO.runtimeconfig.json
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\bin\Debug\netcoreapp3.1\Práctica 1 POO.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\bin\Debug\netcoreapp3.1\Práctica 1 POO.dll
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\bin\Debug\netcoreapp3.1\Práctica 1 POO.pdb
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\obj\Debug\netcoreapp3.1\Práctica 1 POO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\obj\Debug\netcoreapp3.1\Práctica 1 POO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\obj\Debug\netcoreapp3.1\Práctica 1 POO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\obj\Debug\netcoreapp3.1\Práctica 1 POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\obj\Debug\netcoreapp3.1\Práctica 1 POO.dll
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\obj\Debug\netcoreapp3.1\Práctica 1 POO.pdb
+C:\Users\Usuario\source\repos\Práctica 1 POO\Práctica 1 POO\obj\Debug\netcoreapp3.1\Práctica 1 POO.genruntimeconfig.cache
